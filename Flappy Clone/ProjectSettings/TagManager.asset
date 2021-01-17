@@ -44,18 +44,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Background
-    uniqueID: 526393897
+  - name: BackGround
+    uniqueID: 3047477859
     locked: 0
-  - name: Midground
-    uniqueID: 3363761429
+  - name: MidGround
+    uniqueID: 893673837
     locked: 0
   - name: Bird
-    uniqueID: 1029346033
+    uniqueID: 1970259457
     locked: 0
-  - name: Foreground
-    uniqueID: 1038825107
+  - name: ForeGround
+    uniqueID: 791547485
     locked: 0
   - name: Canvas
-    uniqueID: 2187278439
+    uniqueID: 2978243125
     locked: 0
